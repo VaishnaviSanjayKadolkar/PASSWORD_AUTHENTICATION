@@ -1,4 +1,4 @@
-# 🔐 Password Authentication on RISC-V Processor
+# 🔐 Password Authentication with RISC-V Processor
 
 A Verilog-based custom RISC-V processor with **hardware-level password authentication**, preventing unauthorized instruction execution until a correct password is entered.
 
