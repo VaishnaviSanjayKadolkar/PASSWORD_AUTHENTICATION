@@ -24,6 +24,7 @@ A Verilog-based custom RISC-V processor with **hardware-level password authentic
 - Block instruction execution unless authentication succeeds.
 - Simulate and verify secure execution through RISC-V assembly programs.
 - Demonstrate processor-level access control in Verilog HDL.
+  <img src="block_dg.png" width="600" alt="Architecture Diagram" />
 
 ---
 
@@ -42,7 +43,7 @@ The processor is built using Verilog and includes:
 - **RISC-V Core Modules** (PC, ALU, Control Unit, Register File, etc.)  
 - **Instruction Memory** (Loaded via `.hex` file)
 
-<img src="images/architecture_diagram.png" width="600" alt="Architecture Diagram" />
+<img src="OE.png" width="600" alt="Architecture Diagram" />
 
 ---
 
@@ -129,7 +130,4 @@ The processor is built using Verilog and includes:
 
 ---
 
-## 🧾 License
-
-This project is released under the [MIT License](LICENSE).
 
