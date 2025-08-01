@@ -43,7 +43,7 @@ The processor is built using Verilog and includes:
 - **RISC-V Core Modules** (PC, ALU, Control Unit, Register File, etc.)  
 - **Instruction Memory** (Loaded via `.hex` file)
 
-<img src="OE.png" width="600" alt="Architecture Diagram" />
+<img src="OE.png" width="800" alt="Architecture Diagram" />
 
 ---
 
@@ -77,10 +77,10 @@ The processor is built using Verilog and includes:
   - Failed authentication → instruction fetch blocked
 
 ### ✅ Success Case Waveform  
-<img src="images/waveform_success.png" width="500"/>
+<img src="hardware_result.png" width="500"/>
 
 ### ❌ Failure Case Waveform  
-<img src="images/waveform_failure.png" width="500"/>
+<img src="implement_result.png.png" width="500"/>
 
 ---
 
